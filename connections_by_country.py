@@ -6,7 +6,7 @@ from collections import defaultdict
 import ipaddress
 
 # ================== CONFIGURATION ==================
-DB_PATH = "/home/bamdad/scripts/secmonitoring/GeoLite2-Country.mmdb"
+DB_PATH = "~/scripts/secmonitoring/GeoLite2-Country.mmdb"
 # ===================================================
 
 try:
