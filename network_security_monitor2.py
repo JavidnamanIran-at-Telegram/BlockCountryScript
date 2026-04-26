@@ -3,7 +3,7 @@
 """
 Network Security Monitor - Attack-Resistant Version 2.0
 Detects active connections, potential attacks, country stats + nftables drops.
-Author: Network Security Expert 
+
 """
 
 import subprocess
