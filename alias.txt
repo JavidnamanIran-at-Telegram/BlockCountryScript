@@ -1,0 +1,1 @@
+alias sec='cd ~/scripts/secmonitoring/ && source venv/bin/activate'
